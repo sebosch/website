@@ -20,13 +20,11 @@ bio = "My research interests include distributed robotics, mobile computing and 
 email = "drbosch.se@gmail.com"
 
 # List your academic interests.
-[interests]
-  interests = [
+interests = [
     "Cognitive Neuroscience",
     "Artificial Intelligence",
     "Data Science",
-    "Education"
-    ]
+    "Education"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
