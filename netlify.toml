@@ -1,5 +1,5 @@
 [build]
-  publish = "seb"
+  publish = "website"
   command = "hugo"
 
 [context.production.environment]
