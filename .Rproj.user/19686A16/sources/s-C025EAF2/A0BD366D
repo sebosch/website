@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549374514239.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "230894369",
+    "id" : "A0BD366D",
+    "lastKnownWriteTime" : 1549374579,
+    "last_content_update" : 1549374579984,
+    "path" : "~/GitHub/website/seb/config/_default/menus.toml",
+    "project_path" : "seb/config/_default/menus.toml",
+    "properties" : {
+        "cursorPosition" : "23,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
