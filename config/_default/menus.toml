@@ -7,16 +7,18 @@
   name = "Home"
   url = "#about"
   weight = 1
-
-[[main]]
-  name = "Research"
-  url = "#projects"
-  weight = 2
-
+  
 [[main]]
   name = "Publications"
   url = "#publications"
+  weight = 2
+  
+[[main]]
+  name = "Research"
+  url = "#projects"
   weight = 3
+
+
 
 #[[main]]
 #  name = "Projects"

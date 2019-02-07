@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "default"
+color_theme = "seb"
 # Enable users to switch between day and night mode?
 day_night = false
 
@@ -26,15 +26,15 @@ logo = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "2006-01-02"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
 # Show estimated reading time for posts?
-reading_time = true
+reading_time = false
 
 # Display comment count? Requires commenting to be enabled.
-comment_count = true
+comment_count = false
 
 # Display next/previous section pager?
 section_pager = false
@@ -118,7 +118,7 @@ publication_types = [
 ]
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Link custom CSS and JS assets
 #   (relative to /static/css and /static/js respectively)
@@ -128,13 +128,13 @@ custom_js  = []
 # Configuration of talk pages.
 [talks]
   # Show talk time?
-  time = true
+  time = false
 
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January, 2006"
+  date_format = "2006-01-02"
 
 # Configuration of project pages.
 [projects]
