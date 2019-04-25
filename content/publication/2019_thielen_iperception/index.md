@@ -49,7 +49,7 @@ slides = ""
 tags = ["clinical psychology", "navigation", "spatial processing"]
 
 # Links (optional).
-url_pdf = "/papers/2019_thielen_iperception.pdf"
+url_pdf = "papers/2019_thielen_iperception.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
