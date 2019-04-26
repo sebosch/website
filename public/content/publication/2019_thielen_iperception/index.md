@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["review", "visual perception", "amodal completion", "neuroimaging"]
 
 # Links (optional).
-url_pdf = "papers/2019_thielen_iperception.pdf"
+url_pdf = "files/2019_thielen_iperception.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

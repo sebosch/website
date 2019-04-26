@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Neuroreport"
-publication_short = "Neuroreport"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["clinical psychology", "case study", "navigation", "spatial processing"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2010_van-der-ham_neurorep.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

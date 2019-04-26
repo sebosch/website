@@ -4,7 +4,7 @@ date = 2014-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["SE Bosch", "JFM Jehee", "Guille´n Ferna´ndez", "CF Doeller"]
+authors = ["SE Bosch", "JFM Jehee", "Guillén Fernández", "CF Doeller"]
 
 # Publication type.
 # Legend:
@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["fMRI", "visual perception", "memory retrieval","multivariate pattern analysis"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2014_bosch_jon.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

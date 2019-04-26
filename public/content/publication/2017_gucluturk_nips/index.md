@@ -4,7 +4,7 @@ date = 2017-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Y Güçlütürk", "U Güçlü", "K Seeliger", "SE Bosch", "R van Lier", "MAJ van Gerven"]
+authors = ["Y Güçlütürk", "U Güçlü", "K Seeliger", "SE Bosch", "R van Lier", "MAJ van Gerven"]
 
 # Publication type.
 # Legend:
@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["fMRI", "artificial neural networks", "reconstruction"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2017_gucluturk_nips.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

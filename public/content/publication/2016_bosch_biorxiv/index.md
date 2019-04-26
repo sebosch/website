@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["artificial neural networks", "probabilistic task learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2016_bosch_biorxiv.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

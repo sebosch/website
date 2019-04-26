@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["TMS", "oculomotor capture","eye movements"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2013_bosch_cercor.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -4,7 +4,7 @@ date = 2018-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["K Seeliger", "M Fritsche", "U Güçlü", "S Schoenmakers", "J-M Schoffelen", "SE Bosch", "MAJ van Gerven"]
+authors = ["K Seeliger", "M Fritsche", "U Güçlü", "S Schoenmakers", "J-M Schoffelen", "SE Bosch", "MAJ van Gerven"]
 
 # Publication type.
 # Legend:
@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["MEG", "artificial neural networks", "visual perception", "multivariate pattern analysis"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2018_seeliger_neuroimage.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

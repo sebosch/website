@@ -18,11 +18,11 @@ authors = ["N Dijkstra", "M Hinne", "SE Bosch", "MAJ van Gerven"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Neuroreport"
-publication_short = "Neuroreport"
+publication = "bioRxiv"
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "bioRxiv"
+abstract = ""
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -46,10 +46,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["clinical psychology", "navigation", "spatial processing"]
+tags = ["visual perception", "imagery", "bayesian modelling", "individual differences"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/2019_dijkstra_biorxiv.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
