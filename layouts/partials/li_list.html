@@ -43,8 +43,8 @@
 
   {{ if and $show_authors $item.Params.authors }}
   <div class="article-metadata" itemprop="author">
-    {{ partial "page_metadata_authors" $item }}
-    ({{- .Date.Format "2006" -}}).
+    {{ partial "page_metadata_authors" $item }}<br/>
+    {{- .Params.publication | markdownify -}},&nbsp;{{- .Date.Format "2006" -}}.
   </div>
   {{ end }}
 

@@ -2,13 +2,13 @@
 name = "seb"
 
 # Optional Google font URL
-google_fonts = "Fauna+One|Vollkorn"
+google_fonts = "Montserrat:400,700|Vollkorn"
 
 # Font families
-heading_font = "Fauna+One"
-body_font = "Vollkorn"
+heading_font = "Vollkorn"
+body_font = "Montserrat"
 nav_font = "Vollkorn"
-mono_font = "Fauna+One"
+mono_font = "Vollkorn"
 
 # Font size
 font_size = "20"

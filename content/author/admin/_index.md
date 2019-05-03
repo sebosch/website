@@ -83,10 +83,10 @@ user_groups = []
 
 +++
 
-I'm a project manager Research Support at the VU Amsterdam and postdoctoral researcher at the Donders Institute for Brain, Cognition and Behaviour. 
-At the VU, I'm involved in projects related to research data management and research intelligence.
-At the Donders, I work with Marcel van Gerven and his Artificial Cognitive Systems group, where I apply state-of-the art methods from artificial intelligence to study learning, perception and imagery.
-I completed my PhD in the group of Christian Doeller, where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
+I'm a project manager Research Support at the VU Amsterdam and a postdoctoral researcher at the Donders Institute for Brain, Cognition and Behaviour.
+<br/>At the VU, I'm leading several projects related to research data management and research intelligence.
+<br/>At the Donders Institute, I work with Marcel van Gerven and his Artificial Cognitive Systems group, where I apply state-of-the art methods from artificial intelligence to study learning, perception and imagery.
+<br/>I completed my PhD in the group of Christian Doeller, where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
 
 My interests include the neural mechanisms of cognition, artificial intelligence, data science and open science initiatives.
 
