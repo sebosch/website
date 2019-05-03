@@ -1,0 +1,15 @@
+# Font style metadata
+name = "seb"
+
+# Optional Google font URL
+google_fonts = "Fauna+One|Vollkorn"
+
+# Font families
+heading_font = "Fauna+One"
+body_font = "Vollkorn"
+nav_font = "Vollkorn"
+mono_font = "Fauna+One"
+
+# Font size
+font_size = "20"
+font_size_small = "18"
