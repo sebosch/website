@@ -1,5 +1,5 @@
 +++
-title = "Modeling Cognitive Processes with Neural Reinforcement Learning"
+title = "Modeling cognitive processes with neural reinforcement learning"
 date = 2016-10-29T00:00:00
 draft = false
 

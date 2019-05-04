@@ -1,5 +1,5 @@
 +++
-title = "Reinstatement of Associative Memories in Early Visual Cortex Is Signaled by the Hippocampus"
+title = "Reinstatement of associative memories in early visual cortex is signaled by the hippocampus"
 date = 2014-05-01T00:00:00
 draft = false
 

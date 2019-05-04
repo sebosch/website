@@ -1,10 +1,10 @@
 +++
-title = "Vividness of visual imagery depends on the neural overlap with perception in visual areas"
-date = 2017-02-01T00:00:00
+title = "Reactivating memories in hippocampus and neocortex"
+date = 2016-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["N Dijkstra", "__SE Bosch__", "MAJ van Gerven"]
+authors = ["__SE Bosch__"]
 
 # Publication type.
 # Legend:
@@ -17,14 +17,14 @@ authors = ["N Dijkstra", "__SE Bosch__", "MAJ van Gerven"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["2"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "_Journal of Neuroscience_"
+publication = "_Radboud University Nijmegen_"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Research into the neural correlates of individual differences in imagery vividness point to an important role of the early visual cortex. However, there is also great fluctuation of vividness within individuals, such that only looking at differences between people necessarily obscures the picture. In this study, we show that variation in moment-to-moment experienced vividness of visual imagery, within human subjects, depends on the activity of a large network of brain areas, including frontal, parietal, and visual areas. Furthermore, using a novel multivariate analysis technique, we show that the neural overlap between imagery and perception in the entire visual system correlates with experienced imagery vividness. This shows that the neural basis of imagery vividness is much more complicated than studies of individual differences seemed to suggest."
+abstract = "_The Time Traveller: “Well, I do not mind telling you I have been at work upon this geometry of Four Dimensions for some time. Some of my results are curious. For instance, here is a portrait of a man at eight years old, another at fifteen, another at seventeen, another at twenty-three, and so on. All these are evidently sections, as it were, Three-Dimensional representations of his four-Dimensioned being, which is a fixed and unalterable thing (…)<br><br>The Medical Man: ’But (…) if Time is really only a fourth dimension of Space, why is it, and why has it always been, regarded as something different? And why cannot we move in Time as we move about in the other dimensions of Space? (…) you cannot move at all in Time, you cannot get away from the present moment.”<br><br>The Time Traveller: “(…) you are wrong to say that we cannot move about in Time. For instance, if I am recalling an incident very vividly I go back to the instant of its occurrence: I become absent-minded, as you say. I jump back for a moment.”_<br><br>The Time Machine, H.G. Wells, pp. 33-37"
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -48,10 +48,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["fMRI", "mental imagery", "visual perception", "multivariate pattern analysis"]
+tags = ["dissertation", "memory retrieval", "neocortex", "hippocampus", "fMRI"]
 
 # Links (optional).
-url_pdf = "/files/2017_dijkstra_jon.pdf"
+url_pdf = "/files/2016_bosch_dissertation.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -59,14 +59,14 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://hdl.handle.net/2066/151557"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1523/JNEUROSCI.3022-16.2016"
+doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = false

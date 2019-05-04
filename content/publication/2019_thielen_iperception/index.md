@@ -1,5 +1,5 @@
 +++
-title = "Neuroimaging Findings on Amodal Completion: A Review"
+title = "Neuroimaging findings on amodal completion: a review"
 date = 2019-04-01T00:00:00
 draft = false
 

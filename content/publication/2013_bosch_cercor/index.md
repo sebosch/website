@@ -1,5 +1,5 @@
 +++
-title = "The Role of the Frontal Eye Fields in Oculomotor Competition: Image-Guided TMS Enhances Contralateral Target Selection"
+title = "The role of the frontal eye fields in oculomotor competition: image-guided TMS enhances contralateral target selection"
 date = 2013-04-01T00:00:00
 draft = false
 

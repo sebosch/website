@@ -1,5 +1,5 @@
 +++
-title = "Shared Neural Mechanisms of Visual Perception and Imagery"
+title = "Shared neural mechanisms of visual perception and imagery"
 date = 2019-03-01T00:00:00
 draft = false
 
