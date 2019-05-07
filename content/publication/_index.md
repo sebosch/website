@@ -10,6 +10,6 @@ view = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles_2.jpg"
-caption = "This is a test"
+image = ""
+caption = ""
 +++
