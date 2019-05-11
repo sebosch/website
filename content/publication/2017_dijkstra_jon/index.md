@@ -53,8 +53,8 @@ tags = ["fMRI", "mental imagery", "visual perception", "multivariate pattern ana
 # Links (optional).
 url_pdf = "/files/2017_dijkstra_jon.pdf"
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "http://hdl.handle.net/11633/di.dcc.DSC_2017.00051_782"
+url_dataset = "http://hdl.handle.net/11633/di.dcc.DSC_2017.00051_782"
 url_project = ""
 url_slides = ""
 url_video = ""

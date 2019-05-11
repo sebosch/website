@@ -51,8 +51,8 @@ tags = ["MEG", "mental imagery", "visual perception", "multivariate pattern anal
 # Links (optional).
 url_pdf = "/files/2018_dijkstra_elife.pdf"
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "http://hdl.handle.net/11633/di.dcc.DSC_2017.00072_245"
+url_dataset = "http://hdl.handle.net/11633/di.dcc.DSC_2017.00072_245"
 url_project = ""
 url_slides = ""
 url_video = ""
