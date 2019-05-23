@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/bosch_se
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/sander-erik-bosch
+  link: https://linkedin.com/in/sander-erik-bosch
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6845-0911

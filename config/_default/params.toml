@@ -66,7 +66,7 @@ appointment_url = "" #"https://calendly.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@bosch_se", link = "https://twitter.com/bosch_se"},
-  {icon = "linkedin", icon_pack = "fab", name = "Let's link up!", link = "www.linkedin.com/in/sander-erik-bosch"},
+  {icon = "linkedin", icon_pack = "fab", name = "Let's link up!", link = "https://linkedin.com/in/sander-erik-bosch"},
   # {icon = "orcid", icon_pack = "ai", name = "View", link = "https://orcid.org/0000-0001-6845-0911"},
   # {icon = "google-scholar", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.nl/citations?user=yLpaR48AAAAJ&hl=nl"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -121,7 +121,7 @@ comment_count = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true

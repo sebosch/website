@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["fMRI", "cortical reinstatement", "perception", "hippocampus", "visual cortex", "multivariate pattern analysis"]
+tags = ["fMRI", "episodic memory retrieval", "visual perception", "psychophysics", "hippocampus", "visual cortex", "multivariate pattern analysis"]
 
 # Links (optional).
 url_pdf = "/files/2014_bosch_jon.pdf"
