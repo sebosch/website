@@ -81,9 +81,9 @@ email: ""
 
 I'm a project manager Research Support at the VU Amsterdam and a postdoctoral researcher at the Donders Institute for Brain, Cognition and Behaviour.
 
-At the VU, I'm leading several projects related to research data management and research intelligence. In my work, I strive to make the scientific process more transparent and its pillars (research, education, communication, leadership) more fairly appreciated.
+At the VU, I'm leading several projects related to [Research Data Management](https://www.ub.vu.nl/en/education-research/research-data-services/index.aspx "VU Library Research Data Services") and [Research Intelligence](https://www.ub.vu.nl/en/education-research/measuring-research-impact/index.aspx "VU Research Intelligence"). In my work, I strive to make the scientific process more transparent and its pillars (research, education, communication, leadership) more fairly and evenly appreciated.
 
-At the Donders Institute, I work with [Prof dr. Marcel van Gerven](https://artcogsys.com/ "ArtCogSys website") and his Artificial Cognitive Systems group, where I apply state-of-the art methods from artificial intelligence to study learning, perception and imagery.
+At the Donders Institute, I work with [Prof dr. Marcel van Gerven](https://artcogsys.com/ "ArtCogSys website") and his Artificial Cognitive Systems group. In several research projects, I apply state-of-the art methods from artificial intelligence to study learning, perception and imagery.
 <br/>I completed my PhD in the group of [Prof. dr. Christian Doeller](https://doellerlab.com/ "Doellerlab website"), where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
 
 My interests include the neural mechanisms of cognition, artificial intelligence, data science and open science initiatives.
