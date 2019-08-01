@@ -15,7 +15,13 @@
   
 # Redirect domain aliases to primary domain
 [[redirects]]
+  from = "https://www.sanderbos.ch/"
+  to = "https://www.sanderbosch.com/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://sanderbos.ch/"
-  to = "https://sanderbosch.com/"
+  to = "https://www.sanderbosch.com/"
   status = 301
   force = true
