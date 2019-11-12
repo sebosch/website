@@ -1,5 +1,5 @@
 +++
-title = "Between-subject variability in the influence of mental imagery on conscious perception
+title = "Between-subject variability in the influence of mental imagery on conscious perception"
 date = 2019-11-07T00:00:00
 draft = false
 
