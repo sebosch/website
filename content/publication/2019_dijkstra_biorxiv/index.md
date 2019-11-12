@@ -1,6 +1,6 @@
 +++
-title = "Individual differences in the influence of mental imagery on conscious perception"
-date = 2019-04-01T00:00:00
+title = "Between-subject variability in the influence of mental imagery on conscious perception
+date = 2019-11-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,14 +17,24 @@ authors = ["N Dijkstra", "M Hinne", "__SE Bosch__", "MAJ van Gerven"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_bioRxiv_"
+publication = "_Scientific Reports_"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Mental imagery and visual perception rely on similar neural mechanisms, but the function of this overlap remains unclear. One idea is that imagery can influence perception. Previous research has shown that imagining a stimulus prior to binocular presentation of rivalling stimuli increases the chance of perceiving the imagined stimulus. In this study we investigated how this effect interacts with bottom-up sensory input by comparing psychometric response curves for congruent and incongruent imagery in humans. A Bayesian hierarchical model was used, allowing us to simultaneously study group-level effects as well as effects for individual participants. We found strong effects of both imagery as well as its interaction with sensory evidence within individual participants. However, the direction of these effects were highly variable between individuals, leading to weak effects at the group level. This highlights the heterogeneity of conscious perception and emphasizes the need for individualized investigation of such complex cognitive processes."
+abstract = "Mental imagery and visual perception rely on similar neural mechanisms, but the function of this
+overlap remains unclear. One idea is that imagery can influence perception. Previous research has
+shown that imagining a stimulus prior to binocular presentation of rivalling stimuli increases the
+chance of perceiving the imagined stimulus. In this study we investigated how this effect interacts with
+bottom-up sensory input by comparing psychometric response curves for congruent and incongruent
+imagery in humans. A Bayesian hierarchical model was used, allowing us to simultaneously study
+group-level effects as well as effects for individual participants. We found strong effects of both imagery
+as well as its interaction with sensory evidence within individual participants. However, the direction
+of these effects were highly variable between individuals, leading to weak effects at the group level.
+This highlights the heterogeneity of conscious perception and emphasizes the need for individualized
+investigation of such complex cognitive processes."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -51,10 +61,10 @@ slides = ""
 tags = ["behavioural modelling", "mental imagery", "visual perception", "psychophysics", "binocular rivalry", "bayesian model"]
 
 # Links (optional).
-url_pdf = "/files/2019_dijkstra_biorxiv.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_pdf = "/files/2019_dijkstra_scirep.pdf"
+url_preprint = "https://www.biorxiv.org/content/10.1101/607770v1"
+url_code = "http://hdl.handle.net/11633/aacxfhxa"
+url_dataset = "http://hdl.handle.net/11633/aacxfhxa"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -66,7 +76,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/607770"
+doi = "10.1038/s41598-019-52072-1"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
