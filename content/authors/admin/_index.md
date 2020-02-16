@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Manager Research Support | Postdoctoral Researcher
+role: Open Science Coordinator | Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -81,7 +81,7 @@ email: ""
 
 I'm the Open Science Coordinator at the VU Amsterdam and a postdoctoral researcher at the Donders Institute for Brain, Cognition and Behaviour.
 
-As an Open Science Coordinator, I'm initiating and managing projects that promote open access, open data, open software and open education at the VU. I strive to make the scientific process more transparent and its pillars (research, education, communication, leadership) more fairly and evenly appreciated.
+At the VU, I'm initiating and managing projects that promote open access, open data, open software and open education. I strive to make the scientific process more transparent and its pillars (research, education, communication, leadership) more fairly and evenly appreciated.
 
 At the Donders Institute, I work with [Prof dr. Marcel van Gerven](https://artcogsys.com/ "ArtCogSys website") and his Artificial Cognitive Systems group. In several research projects, I apply state-of-the art methods from artificial intelligence to study learning, perception and imagery.
 <br/>I completed my PhD in the group of [Prof. dr. Christian Doeller](https://doellerlab.com/ "Doellerlab website"), where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
