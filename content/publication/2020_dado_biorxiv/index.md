@@ -6,8 +6,6 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["T Dado", "Y Güçlütürk", "L Ambrogioni", "G Ras", "__SE Bosch__", "MAJ van Gerven", "U Güçlü"]
 
-Thirza Dado, 
-
 # Publication type.
 # Legend:
 # 0 = Uncategorized
