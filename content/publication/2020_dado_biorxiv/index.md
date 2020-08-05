@@ -48,7 +48,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["fMRI", "face perception", "artificial neural networks", "reconstruction"]]
+tags = ["fMRI", "face perception", "artificial neural networks", "reconstruction"]
 
 # Links (optional).
 url_pdf = "/files/2020_dado_biorxiv.pdf"
