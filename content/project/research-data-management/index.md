@@ -1,8 +1,8 @@
 ---
-title: Eye movements
-summary: Studies on the role of eye movements in cognition
+title: Research Data Management
+summary: 
 tags:
-- eye movements
+- open science
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

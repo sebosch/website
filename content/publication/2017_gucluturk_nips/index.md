@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["fMRI", "artificial neural networks", "reconstruction"]
+tags = ["fMRI", "face perception", "artificial neural networks", "reconstruction"]
 
 # Links (optional).
 url_pdf = "/files/2017_gucluturk_nips.pdf"

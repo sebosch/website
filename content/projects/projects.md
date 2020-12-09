@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  #[[content.filter_button]]
-  #  name = "All"
-  #  tag = "*"
+  [[content.filter_button]]
+    name = "all"
+    tag = "*"
   
-  #[[content.filter_button]]
-  #  name = "Eye movements"
-  #  tag = "eye_movements"
+  [[content.filter_button]]
+    name = "research"
+    tag = "research"
   
-  #[[content.filter_button]]
-  #  name = "Artificial neural networks"
-  #  tag = "Demo"
+  [[content.filter_button]]
+    name = "open science"
+    tag = "open science"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -73,5 +73,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Test test

@@ -1,8 +1,8 @@
 ---
-title: Eye movements
-summary: Studies on the role of eye movements in cognition
+title: Mental Imagery
+summary: 
 tags:
-- eye movements
+- research
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,8 +1,8 @@
 ---
 title: Memory retrieval
-summary: Doctorate studies on memory retrieval in hippocampus and neocortex
+summary: 
 tags:
-- memory retrieval
+- research
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
