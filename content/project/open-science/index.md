@@ -26,4 +26,4 @@ url_video: ""
 slides: ""
 ---
 
-Add more stuff on Open Science bla bla
+Open Science is very important
