@@ -25,8 +25,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-<<<<<<< HEAD
 
 This is work in progress 
-=======
->>>>>>> 4b6a7ea02c2be3e90fd591165300669fc50907d7
+
