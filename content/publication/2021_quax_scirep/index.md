@@ -1,6 +1,6 @@
 +++
 title = "Population codes of prior knowledge learned through environmental regularities"
-date = 2019-07-15T00:00:00
+date = 2021-01-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
