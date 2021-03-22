@@ -20,7 +20,7 @@ authors = ["SC Quax", "__SE Bosch__", "MV Peelen", "MAJ van Gerven"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Scientific Reports_"
+publication = "_Nature_"
 publication_short = ""
 
 # Abstract and optional shortened version.
