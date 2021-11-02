@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/publication_types/3/</link>
+    <description>Recent content in 3 on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyperrealistic neural decoding: Linear reconstruction of face stimuli from fMRI measurements via the GAN latent space</title>
+      <link>https://www.sanderbosch.com/publication/2020_dado_biorxiv/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2020_dado_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepRF: Ultrafast population receptive field mapping with deep learning</title>
+      <link>https://www.sanderbosch.com/publication/2019_thielen_biorxiv/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_thielen_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A large single-participant fMRI dataset for probing brain responses to naturalistic stimuli in space and time</title>
+      <link>https://www.sanderbosch.com/publication/2019_seeliger_biorxiv/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_seeliger_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling cognitive processes with neural reinforcement learning</title>
+      <link>https://www.sanderbosch.com/publication/2016_bosch_biorxiv/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2016_bosch_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Dijkstra on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/authors/n-dijkstra/</link>
+    <description>Recent content in N Dijkstra on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/authors/n-dijkstra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Between-subject variability in the influence of mental imagery on conscious perception</title>
+      <link>https://www.sanderbosch.com/publication/2019_dijkstra_scirep/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_dijkstra_scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements explain decodability during perception and cued attention in MEG</title>
+      <link>https://www.sanderbosch.com/publication/2019_quax_neuroimage/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_quax_neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared neural mechanisms of visual perception and imagery</title>
+      <link>https://www.sanderbosch.com/publication/2019_dijkstra_tics/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_dijkstra_tics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential temporal dynamics during visual imagery and perception</title>
+      <link>https://www.sanderbosch.com/publication/2018_dijkstra_elife/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2018_dijkstra_elife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vividness of visual imagery depends on the neural overlap with perception in visual areas</title>
+      <link>https://www.sanderbosch.com/publication/2017_dijkstra_jon/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2017_dijkstra_jon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

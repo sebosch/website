@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encoding on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/encoding/</link>
+    <description>Recent content in encoding on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/encoding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Convolutional neural network-based encoding and decoding of visual object recognition in space and time</title>
+      <link>https://www.sanderbosch.com/publication/2018_seeliger_neuroimage/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2018_seeliger_neuroimage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

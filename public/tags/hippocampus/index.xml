@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hippocampus on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/hippocampus/</link>
+    <description>Recent content in hippocampus on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/hippocampus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mnemonic convergence in the human hippocampus</title>
+      <link>https://www.sanderbosch.com/publication/2016_backus_natcom/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2016_backus_natcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactivating memories in hippocampus and neocortex</title>
+      <link>https://www.sanderbosch.com/publication/2016_bosch_thesis/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2016_bosch_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinstatement of associative memories in early visual cortex is signaled by the hippocampus</title>
+      <link>https://www.sanderbosch.com/publication/2014_bosch_jon/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2014_bosch_jon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

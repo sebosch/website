@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>population receptive field mapping on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/population-receptive-field-mapping/</link>
+    <description>Recent content in population receptive field mapping on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/population-receptive-field-mapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepRF: Ultrafast population receptive field mapping with deep learning</title>
+      <link>https://www.sanderbosch.com/publication/2019_thielen_biorxiv/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_thielen_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

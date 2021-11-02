@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TM van Leeuwen on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/authors/tm-van-leeuwen/</link>
+    <description>Recent content in TM van Leeuwen on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/authors/tm-van-leeuwen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evidence for confounding eye movements under attempted fixation and active viewing in cognitive neuroscience</title>
+      <link>https://www.sanderbosch.com/publication/2019_thielen_scirep/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_thielen_scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroimaging findings on amodal completion: a review</title>
+      <link>https://www.sanderbosch.com/publication/2019_thielen_iperception/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_thielen_iperception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

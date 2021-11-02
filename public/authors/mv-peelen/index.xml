@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MV Peelen on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/authors/mv-peelen/</link>
+    <description>Recent content in MV Peelen on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/authors/mv-peelen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population codes of prior knowledge learned through environmental regularities</title>
+      <link>https://www.sanderbosch.com/publication/2021_quax_scirep/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2021_quax_scirep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

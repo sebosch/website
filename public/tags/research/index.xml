@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/research/</link>
+    <description>Recent content in research on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eye movements</title>
+      <link>https://www.sanderbosch.com/project/eye-movements/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sanderbosch.com/project/eye-movements/</guid>
+      <description>Eye movements are crucial in our everyday lives: they allow us to quickly browse the visual field for information without having to turn our heads every time. Eye movements are quick and can be triggered both internally (e.g. voluntary search like in Where&amp;rsquo;s Waldo) and externally (e.g. attentional capture by a flash of light).
+I was involved in a number of studies on the role of eye movements in cognition. In a study using fMRI-guided transcranial magnetic stimulation (TMS), we showed that single-pulse magnetic stimulation over a brain region called the Frontal Eye Field (FEF) could facilitate eye movements to the contralateral visual field in an oculomotor capture task.</description>
+    </item>
+    
+    <item>
+      <title>Memory retrieval</title>
+      <link>https://www.sanderbosch.com/project/memory-retrieval/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sanderbosch.com/project/memory-retrieval/</guid>
+      <description>During my PhD, I designed and executed a number of studies on memory retrieval. You can find my dissertation here.
+In a collaboration with dr. Janneke Jehee&amp;rsquo;s Visual Computation group, we combined a task from visual psychophysics with fMRI and multivariate pattern analysis. We investigated whether memory retrieval of a visual stimulus would elicit activity patterns in early visual cortex, as predicted by the cortical reinstatement theory. We found that we could indeed classify the identity of the retrieved stimulus from cortical brain activity, and that the accuracy of retrieval correlated with activity in hippocampus.</description>
+    </item>
+    
+    <item>
+      <title>Mental Imagery</title>
+      <link>https://www.sanderbosch.com/project/mental-imagery/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sanderbosch.com/project/mental-imagery/</guid>
+      <description>This is work in progress</description>
+    </item>
+    
+  </channel>
+</rss>

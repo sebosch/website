@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FP de Lange on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/authors/fp-de-lange/</link>
+    <description>Recent content in FP de Lange on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Tue, 29 May 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/authors/fp-de-lange/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differential temporal dynamics during visual imagery and perception</title>
+      <link>https://www.sanderbosch.com/publication/2018_dijkstra_elife/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2018_dijkstra_elife/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

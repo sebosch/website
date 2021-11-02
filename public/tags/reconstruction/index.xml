@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reconstruction on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/reconstruction/</link>
+    <description>Recent content in reconstruction on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyperrealistic neural decoding: Linear reconstruction of face stimuli from fMRI measurements via the GAN latent space</title>
+      <link>https://www.sanderbosch.com/publication/2020_dado_biorxiv/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2020_dado_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing perceived faces from brain activations with deep adversarial neural decoding</title>
+      <link>https://www.sanderbosch.com/publication/2017_gucluturk_nips/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2017_gucluturk_nips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

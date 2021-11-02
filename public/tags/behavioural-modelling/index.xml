@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behavioural modelling on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/behavioural-modelling/</link>
+    <description>Recent content in behavioural modelling on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/behavioural-modelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population codes of prior knowledge learned through environmental regularities</title>
+      <link>https://www.sanderbosch.com/publication/2021_quax_scirep/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2021_quax_scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for confounding eye movements under attempted fixation and active viewing in cognitive neuroscience</title>
+      <link>https://www.sanderbosch.com/publication/2019_thielen_scirep/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_thielen_scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Between-subject variability in the influence of mental imagery on conscious perception</title>
+      <link>https://www.sanderbosch.com/publication/2019_dijkstra_scirep/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_dijkstra_scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling cognitive processes with neural reinforcement learning</title>
+      <link>https://www.sanderbosch.com/publication/2016_bosch_biorxiv/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2016_bosch_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

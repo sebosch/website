@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open science on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/open-science/</link>
+    <description>Recent content in open science on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Science</title>
+      <link>https://www.sanderbosch.com/project/open-science/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sanderbosch.com/project/open-science/</guid>
+      <description>This is work in progress</description>
+    </item>
+    
+    <item>
+      <title>Research Data Management</title>
+      <link>https://www.sanderbosch.com/project/research-data-management/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sanderbosch.com/project/research-data-management/</guid>
+      <description>This is work in progress</description>
+    </item>
+    
+    <item>
+      <title>Research Intelligence</title>
+      <link>https://www.sanderbosch.com/project/research-intelligence/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sanderbosch.com/project/research-intelligence/</guid>
+      <description>This is work in progress</description>
+    </item>
+    
+  </channel>
+</rss>

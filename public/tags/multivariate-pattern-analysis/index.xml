@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multivariate pattern analysis on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/tags/multivariate-pattern-analysis/</link>
+    <description>Recent content in multivariate pattern analysis on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/tags/multivariate-pattern-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population codes of prior knowledge learned through environmental regularities</title>
+      <link>https://www.sanderbosch.com/publication/2021_quax_scirep/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2021_quax_scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for confounding eye movements under attempted fixation and active viewing in cognitive neuroscience</title>
+      <link>https://www.sanderbosch.com/publication/2019_thielen_scirep/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_thielen_scirep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A large single-participant fMRI dataset for probing brain responses to naturalistic stimuli in space and time</title>
+      <link>https://www.sanderbosch.com/publication/2019_seeliger_biorxiv/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_seeliger_biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements explain decodability during perception and cued attention in MEG</title>
+      <link>https://www.sanderbosch.com/publication/2019_quax_neuroimage/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2019_quax_neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional neural network-based encoding and decoding of visual object recognition in space and time</title>
+      <link>https://www.sanderbosch.com/publication/2018_seeliger_neuroimage/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2018_seeliger_neuroimage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential temporal dynamics during visual imagery and perception</title>
+      <link>https://www.sanderbosch.com/publication/2018_dijkstra_elife/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2018_dijkstra_elife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vividness of visual imagery depends on the neural overlap with perception in visual areas</title>
+      <link>https://www.sanderbosch.com/publication/2017_dijkstra_jon/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2017_dijkstra_jon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinstatement of associative memories in early visual cortex is signaled by the hippocampus</title>
+      <link>https://www.sanderbosch.com/publication/2014_bosch_jon/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2014_bosch_jon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Meilinger on Dr. Sander Bosch</title>
+    <link>https://www.sanderbosch.com/authors/t-meilinger/</link>
+    <description>Recent content in T Meilinger on Dr. Sander Bosch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; SEB {year}</copyright>
+    <lastBuildDate>Thu, 01 Jul 2010 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sanderbosch.com/authors/t-meilinger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spatial and temporal aspects of navigation in two neurological patients</title>
+      <link>https://www.sanderbosch.com/publication/2010_van-der-ham_neurorep/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.sanderbosch.com/publication/2010_van-der-ham_neurorep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
