@@ -1,5 +1,5 @@
 +++
-title = "No Evidence for Neural Overlap between Unconsciously Processed and Imagined Stimuli"
+title = "No evidence for neural overlap between unconsciously processed and imagined stimuli"
 date = 2021-10-02T00:00:00
 draft = false
 
