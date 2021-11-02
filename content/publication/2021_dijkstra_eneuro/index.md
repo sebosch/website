@@ -48,7 +48,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["behavioural modelling", "mental imagery", "visual perception", "psychophysics", ""binocular rivalry", "bayesian model", "fMRI"]
+tags = ["behavioural modelling", "mental imagery", "visual perception", "fMRI"]
 
 # Links (optional).
 url_pdf = "/files/2021_dijkstra_eneuro.pdf"
