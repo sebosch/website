@@ -5,14 +5,14 @@ name = "seb"
 light = true
 
 # Primary
-primary = "#496487"
-primary_light = "#859ab5"
+primary = "#670067"
+primary_light = "#b400b4"
 primary_dark = "#29384b"
 
 # Menu
-menu_primary = "#FFFFFF" # 500
-menu_text = "#91a2b7"
-menu_text_active = "#859ab5" # A100
+menu_primary = "#fdfdfd" # 500
+menu_text = "#670067"
+menu_text_active = "#9a009a" # A100
 menu_title = "#496487"
 
 # Home sections
