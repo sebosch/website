@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Open Science Coordinator | Postdoctoral Researcher
+role: Open Science Coordinator | NPOS Portfolio Manager
 
 # Organizations/Affiliations
 organizations:
 - name: Vrije Universiteit Amsterdam
   url: "https://www.vu.nl/"
-- name: Donders Institute
-  url: "https://www.ru.nl/donders/"
+- name: National Programme Open Science (NPOS)
+  url: "https://www.openscience.nl/en/npos-2/"
   
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -79,12 +79,15 @@ email: ""
 #- Visitors
 ---
 
-I'm the Open Science Coordinator at the VU Amsterdam and a postdoctoral researcher at the Donders Institute for Brain, Cognition and Behaviour.
+I am the Open Science Coordinator at the VU Amsterdam.
+In this role, I connect existing initiatives on Open Science and initiate and manage projects that work towards necessary Infrastructure, Support & Training, Community Engagement, Recognition & Rewards and Policy for Open Science. I strive to make the scientific process more transparent and its pillars (research, education, communication, leadership) more fairly and evenly appreciated.
 
-At the VU, I'm initiating and managing projects that promote open access, open data, open software and open education. I strive to make the scientific process more transparent and its pillars (research, education, communication, leadership) more fairly and evenly appreciated.
+<br/>
+Since February 2022, I am the (part-time) Portfolio Manager at the Dutch National Programme Open Science (NPOS). In this role, I am responsible for the creation of a Multi-Annual Plan (NPOS2030), which contains the vision, [shared ambitions](https://www.openscience.nl/wp-content/uploads/2022/04/NPOS_AmbitionDocument.pdf "NPOS Ambition Document") and key objectives of a broad consortium of Dutch Open Science stakeholders.  
 
-At the Donders Institute, I work with [Prof dr. Marcel van Gerven](https://artcogsys.com/ "ArtCogSys website") and his Artificial Cognitive Systems group. In several research projects, I apply state-of-the art methods from artificial intelligence to study learning, perception and imagery.
-<br/>I completed my PhD in the group of [Prof. dr. Christian Doeller](https://doellerlab.com/ "Doellerlab website"), where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
+<br/>
+I completed my PhD the [Donders Institute](https://www.ru.nl/donders/ "Website Donders Institute for Brain, Cognition & Behaviour"), in the group of [Prof. dr. Christian Doeller](https://doellerlab.com/ "Website Doellerlab"), where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
+As as postdoctoral researcher, I worked with [Prof dr. Marcel van Gerven](https://artcogsys.com/ "Website ArtCogSys") and his Artificial Cognitive Systems group. In several research projects, I applied state-of-the art methods from artificial intelligence to study learning, perception and imagery.
 
 My interests include open science initiatives, the neural mechanisms of cognition, artificial intelligence and data science.
 

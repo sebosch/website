@@ -11,7 +11,7 @@ primary_dark = "#29384b"
 
 # Menu
 menu_primary = "#FFFFFF" # 500
-menu_text = "#91a2b7"
+menu_text = "#496487"
 menu_text_active = "#859ab5" # A100
 menu_title = "#496487"
 
