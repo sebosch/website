@@ -5,13 +5,13 @@
 [context.production.environment]
   HUGO_VERSION = "0.55.3"
   HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
+  HUGO_ENABLEGITINFO = "false"
 
 # COMMENT: This a rule for Single Page Applications
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+#  from = "/*"
+#  to = "/index.html"
+#  status = 200
   
 # Redirect domain aliases to primary domain
 #[[redirects]]
