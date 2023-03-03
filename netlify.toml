@@ -8,7 +8,7 @@
   HUGO_ENABLEGITINFO = "false"
 
 # COMMENT: This a rule for Single Page Applications
-[[redirects]]
+#[[redirects]]
 #  from = "/*"
 #  to = "/index.html"
 #  status = 200
