@@ -84,7 +84,7 @@ In this role, I connect existing initiatives on [__Open Science__](https://vu.nl
 
 Since February 2022, I am the (part-time) Portfolio Manager at the Dutch National Programme Open Science (NPOS). In this role, I am responsible for the creation of a Multi-Annual Plan (NPOS2030), which contains the vision, [__shared ambitions__](https://www.openscience.nl/wp-content/uploads/2022/04/NPOS_AmbitionDocument.pdf "NPOS Ambition Document") and key objectives of a broad consortium of Dutch Open Science stakeholders.  
 
-I completed my PhD the [__Donders Institute__](https://www.ru.nl/donders/ "Website Donders Institute for Brain, Cognition & Behaviour"), in the group of [__Prof. dr. Christian Doeller__](https://doellerlab.com/ "Website Doellerlab"), where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
+I completed my PhD at the [__Donders Institute__](https://www.ru.nl/donders/ "Website Donders Institute for Brain, Cognition & Behaviour"), in the group of [__Prof. dr. Christian Doeller__](https://doellerlab.com/ "Website Doellerlab"), where I combined psychophysics, fMRI and multivariate analyses to investigate hippocampal memory retrieval.
 As as postdoctoral researcher, I worked with [__Prof dr. Marcel van Gerven__](https://artcogsys.com/ "Website ArtCogSys") and his Artificial Cognitive Systems group. In several research projects, I applied state-of-the art methods from artificial intelligence to study learning, perception and imagery.
 
 My interests include open science initiatives, the neural mechanisms of cognition, artificial intelligence and data science.
