@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Open Science Coordinator
+role: Chief Open Science Officer
 
 # Organizations/Affiliations
 organizations:
@@ -78,7 +78,7 @@ email: ""
 ---
 
 __Open Science__\
-I am the Open Science Coordinator at the VU Amsterdam.
+I am the Chief Open Science Officer at VU Amsterdam.
 In this role, I connect existing initiatives on [__Open Science__](https://vu.nl/openscience "Website VU Open Science") and initiate and manage projects that work towards necessary Infrastructure, Support & Training, Community Engagement, Recognition & Rewards and Policy for Open Science. I strive to make the scientific process more transparent and its pillars (FAIR & Responsible Research, Public Engagement & Impact, and FAIR & Open Education) more fairly and evenly appreciated.
 
 In 2022, I took up the role of Portfolio Manager at the Dutch National Programme Open Science (NPOS). In this role, I was responsible for the creation of a Multi-Annual Plan (NPOS2030), which contains the vision, [__shared ambitions__](https://www.openscience.nl/wp-content/uploads/2022/04/NPOS_AmbitionDocument.pdf "NPOS Ambition Document") and key objectives of a broad consortium of Dutch Open Science stakeholders.\
